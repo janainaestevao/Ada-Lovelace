@@ -1,2 +1,2 @@
 # Ada Lovelace
- Primeiro repositorio
+ Repositório do site criado no curso da Programaria.
